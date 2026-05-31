@@ -1,7 +1,11 @@
-
-def main():
-  pass #code goes here
-
-
-
-main()
+print("...GVS")
+print("...GGGGGGGGG............VV...........VV...............SSSSSSSSS.........")
+print("..GGGGGGGGGGG...........VV...........VV...............SSSSSSSSSSS.......")
+print("..GG.......GG............VV.........VV................SSSS..............")
+print("..GG.....................VV.........VV................SSSS..............")
+print("..GG....GGGGGG............VV.......VV..................SSSSSS...........")
+print("..GG.......GGG............VV.......VV...................SSSSSS..........")
+print("..GG.......GG..............VV.....VV........................SSSS........")
+print("..GG.......GG..............VV.....VV........................SSSS........")
+print("..GGGGGGGGGGG.....**.......VVVVVVVVV.......**.........SSSSSSSSSSS.....**")
+print("...GGGGGGGGG......**........VVVVVVV........**..........SSSSSSSSS......**")
